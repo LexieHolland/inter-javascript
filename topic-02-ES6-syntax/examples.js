@@ -134,14 +134,14 @@ greeter()
 
 greeter = 1
 
-  const x = 10;
-  const obj = { x }; // shorthand for { x: x }
-  console.log(obj); // { x: 10 }
+//   const x = 10;
+//   const obj = { x }; // shorthand for { x: x }
+//   console.log(obj); // { x: 10 }
 
 const x = 10;
   const obj = { x: x };
 
-  { a,b,c,d } vs {a:a,b:b,c:c,d:d}
+//  { a,b,c,d } vs {a:a,b:b,c:c,d:d}
 
 const math={
     add: function(a,b) { return a+b }
